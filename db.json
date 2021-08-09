@@ -2,7 +2,7 @@
   "aibud": [
       {
           "id": 1,
-          "nextUtt": "아이버드 get 잘 응답했어요.",
+          "nextUtt": "아이버드 잘 응답했어요.",
           "status": "200"
       }
   ]
